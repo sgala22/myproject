@@ -1,4 +1,4 @@
-print ("Hello")
-print ("ooooh")
-print ("nn")
-print ("hello")
+print ("Hello;")
+print ("ooooh;")
+print ("nn;")
+print ("hello;")
